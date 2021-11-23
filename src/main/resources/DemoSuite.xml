@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="DemoSuite" configfailurepolicy="continue">
+    <test name="DemoJunit4Test" junit = "true">
+        <classes>
+            <class name="runner.Runner">
+                <methods>
+                    <include name=".*" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

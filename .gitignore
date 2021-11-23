@@ -1,0 +1,21 @@
+# general
+!.gitignore*
+.metadata/
+target/classes/
+test-output/
+
+# eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# idea
+.idea
+*.iml
+/out
+
+# reports
+reports/
+/target/
+cucumber-html-reports

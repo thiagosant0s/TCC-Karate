@@ -1,0 +1,17 @@
+{
+  "name": "<name>",
+  "email": "<email>",
+  "emailConfirmation": "<emailConfirmation>",
+  "cpf": "<cpf>",
+  "phoneNumber": "<phoneNumber>",
+  "password": "<password>",
+  "passwordConfirmation": "<passwordConfirmation>",
+  "cep": "<cep>",
+  "state": "<state>",
+  "city": "<city>",
+  "neighborhood": "<neighborhood>",
+  "street": "<street>",
+  "number": "<number>",
+  "complement": "<complement>"
+}
+

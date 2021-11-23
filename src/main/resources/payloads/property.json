@@ -1,0 +1,23 @@
+{
+  "type": "<type>",
+  "availableTo": "<availableTo>",
+  "price": "<price>",
+  "condominium": "<condominium>",
+  "iptu": "<iptu>",
+  "cep": "<cep>",
+  "state": "<state>",
+  "city": "<city>",
+  "neighborhood": "<neighborhood>",
+  "street": "<street>",
+  "number": "<number>",
+  "complement": "<complement>",
+  "description": "<description>",
+  "dimensions": "<dimensions>",
+  "numberOfBedrooms": "<numberOfBedrooms>",
+  "numberOfBathrooms": "<numberOfBathrooms>",
+  "numberOfParkingSpaces": "<numberOfParkingSpaces>",
+  "images": [
+    "<images>"
+  ],
+  "additionalInformation": "<additionalInformation>"
+}
