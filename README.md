@@ -1,6 +1,6 @@
 <h1 align="center">Karate</h1>
 
-<p align="center">Projeto de testes funcionais de API realizados no Karate</p>
+<p align="center">Projeto de testes funcionais de API realizados com o uso do framework Karate</p>
 
 ---
 
@@ -57,18 +57,12 @@ Antes de iniciar, você deverá instalar as seguinte ferramentas em sua máquina
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/emanuelmassafera/imobiliaria-digital-api.git
-
+$ git clone https://github.com/thiagosant0s/TCC-Karate.git
 # Access the project folder via the terminal/cmd
-$ cd imobiliaria-digital-api
-
-# Install dependencies
-$ npm install
-
+$ cd imobiliaria-digital-karate
 # Run
-$ npm start
-
-# The server will start at port:5050
+$ mvn clean package
+$ java -jar target/imobiliaria-digital-karate-tests-0.0.1-SNAPSHOT-jar-with-dependencies.jarsrc/main/resources/DemoSuite.xml
 
 ```
 ---
