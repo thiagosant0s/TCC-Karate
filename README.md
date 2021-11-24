@@ -62,7 +62,7 @@ $ git clone https://github.com/thiagosant0s/TCC-Karate.git
 $ cd imobiliaria-digital-karate
 # Run
 $ mvn clean package
-$ java -jar target/imobiliaria-digital-karate-tests-0.0.1-SNAPSHOT-jar-with-dependencies.jarsrc/main/resources/DemoSuite.xml
+$ java -jar target/imobiliaria-digital-karate-tests-0.0.1-SNAPSHOT-jar-with-dependencies.jar src/main/resources/DemoSuite.xml
 
 ```
 ---
